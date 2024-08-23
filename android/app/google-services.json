@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530612344632",
+    "project_id": "flutter-firebase-1fa91",
+    "storage_bucket": "flutter-firebase-1fa91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530612344632:android:a997a274dfb8b9689693cd",
+        "android_client_info": {
+          "package_name": "com.faizan.nsdd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdRwjxxEPaLDydqgRgRRbr8Bpln8vmtNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

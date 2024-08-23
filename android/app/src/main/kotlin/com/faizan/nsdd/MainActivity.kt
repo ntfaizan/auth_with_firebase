@@ -1,4 +1,4 @@
-package com.example.auth_with_firebase
+package com.faizan.nsdd
 
 import io.flutter.embedding.android.FlutterActivity
 
