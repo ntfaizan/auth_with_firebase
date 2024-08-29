@@ -1,4 +1,5 @@
-import 'package:auth_with_firebase/pages/add_blog_page.dart';
+import 'package:auth_with_firebase/pages/login_page.dart';
+import 'package:auth_with_firebase/pages/signup_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
@@ -26,7 +27,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const HomeBlogPage(),
+      home: LoginPage(),
     );
   }
 }
